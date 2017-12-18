@@ -1,0 +1,10 @@
+
+/*
+ Defense_in_deph - Defesa em camadas para entrada no site
+ Mecanismo de autenticacao
+ Gerando token temporario, 
+ Criptografia e validação dos dados
+ Defesa em camadas de segurança
+ SSL/https Segurança do site pois tem certificado
+
+*/
